@@ -1,0 +1,21 @@
+{
+  "name": "@moneybit/workspace",
+  "version": "0.0.0",
+  "description": "Moneybit is a personal finance application",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moneybit/moneybit.git"
+  },
+  "keywords": [
+    "personal finance",
+    "finance",
+    "money"
+  ],
+  "author": "The Moneybit Authors",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/moneybit/moneybit/issues"
+  },
+  "homepage": "https://github.com/moneybit/moneybit#readme"
+}
